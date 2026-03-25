@@ -1,0 +1,11 @@
+🚀 Summary of your 5-Page Website:
+
+index.html: The landing page with the hero banner and "Why Choose Us" cards.
+
+about.html: (This page) Focused on the Chairman and Principal.
+
+gallery.html: The photo grid with the hover-zoom effects.
+
+videos.html: The page with your YouTube playlist embed.
+
+contact.html: The contact details and Google Map.
